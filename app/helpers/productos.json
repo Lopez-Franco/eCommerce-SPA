@@ -1,0 +1,188 @@
+[
+    {
+        "category": "MOTHERBOARD",
+        "brand": "Asus",
+        "name": "Motherboard Asus Rog Strix Z590-e Gaming Wifi S1200 Intel",
+        "cost": "44989",
+        "stock": "5",
+        "image":"./app/multimedia/image/mother.webp",
+        "id": "2"
+    },
+    {
+        "category": "PROCESADOR",
+        "brand": "Amd",
+        "name": "Procesador Gamer Amd Ryzen 5 5600g Con Video Am4 Radeon",
+        "cost": "38999",
+        "stock": "1",
+        "image":"./app/multimedia/image/cpu.webp",
+        "id": "4"
+    }
+    ,
+    {
+        "category": "MEMORIA",
+        "brand": "Kingston",
+        "name": "Memoria RAM Fury Beast DDR4 RGB gamer color negro 16GB 1 Kingston KF432C16BBA/16",
+        "cost": "20782.75",
+        "stock": "8",
+        "image":"./app/multimedia/image/RAM.webp",
+        "id": "6"
+    }
+    ,
+    {
+        "category": "MONITOR",
+        "brand": "Samsung",
+        "name": "Monitor Gamer Samsung T350h 22 Pulgadas 75hz Full Hd Ips Pc",
+        "cost": "47099",
+        "stock": "2",
+        "image":"./app/multimedia/image/monitor.webp",
+        "id": "8"
+    }
+    ,
+    {
+        "category": "MEMORIA",
+        "brand": "XLR8",
+        "name": "Memoria RAM XLR8 Gaming EPIC-X RGB gamer color negro 16GB 1 PNY MD16GD4320016XRGB",
+        "cost": "25399",
+        "stock": "10",
+        "image":"./app/multimedia/image/RAM3.webp",
+        "id": "5"
+    }
+    ,
+    {
+        "category": "MEMORIA",
+        "brand": "SanDisk",
+        "name": "Tarjeta de memoria SanDisk SDSQXCY-128G-GN6MA Extreme Pro 128GB",
+        "cost": "10999",
+        "stock": "3",
+        "image":"./app/multimedia/image/MicroSD.webp",
+        "id": "1"
+    }
+    ,
+    {
+        "category": "MEMORIA",
+        "brand": "Corsair",
+        "name": "Memoria RAM Vengeance RGB Pro gamer color negro 16GB 2 Corsair CMW16GX4M2D3600C18",
+        "cost": "47099",
+        "stock": "2",
+        "image":"./app/multimedia/image/RAM2.webp",
+        "id": "3"
+    },
+    {
+        "category": "MEMORIA",
+        "brand": "Corsair",
+        "name": "Memoria RAM Vengeance RGB Pro gamer color blanco 16GB 2 Corsair CMW16GX4M2C3600C18",
+        "cost": "30090",
+        "stock": "1",
+        "image":"./app/multimedia/image/RAM4.webp",
+        "id": "7"
+    },
+    {
+        "category": "PROCESADOR",
+        "brand": "Intel",
+        "name": "Microprocesador Intel I7 12700 25mb 3.6 Ghz Socket 1700 Bx8071512700 12va Generación De 12 Núcleos",
+        "cost": "92399",
+        "stock": "2",
+        "image":"./app/multimedia/image/cpu2.webp",
+        "id": "9"
+    }
+    ,
+    {
+        "category": "PROCESADOR",
+        "brand": "AMD",
+        "name": "Procesador AMD Ryzen 7 5700G 100-100000263BOX de 8 núcleos y 4.6GHz de frecuencia con gráfica integrada",
+        "cost": "67499",
+        "stock": "5",
+        "image":"./app/multimedia/image/cpu3.webp",
+        "id": "10"
+    }
+    ,
+    {
+        "category": "PROCESADOR",
+        "brand": "Intel",
+        "name": "Procesador gamer Intel Core i3-10100F BX8070110100F de 4 núcleos y 4.3GHz de frecuencia",
+        "cost": "16999",
+        "stock": "20",
+        "image":"./app/multimedia/image/cpu4.webp",
+        "id": "11"
+    }
+    ,
+    {
+        "category": "MOTHERBOARD",
+        "brand": "Gigabyte",
+        "name": "Motherboard Gigabyte H410m H Ddr4 Intel Socket 1200 10ma Gen",
+        "cost": "17589",
+        "stock": "6",
+        "image":"./app/multimedia/image/mother2.webp",
+        "id": "12"
+    }
+    ,
+    {
+        "category": "MOTHERBOARD",
+        "brand": "Biostar",
+        "name": "Motherboard Para Mineria Z590 Btc Duo 12 Gpu Placas Pcreg",
+        "cost": "59999",
+        "stock": "3",
+        "image":"./app/multimedia/image/mother3.webp",
+        "id": "13"
+    }
+    ,
+    {
+        "category": "MOTHERBOARD",
+        "brand": "Asrock",
+        "name": "Mother Asrock H110 Pro Btc+ Mineria Eth 13 Gpu",
+        "cost": "150000",
+        "stock": "1",
+        "image":"./app/multimedia/image/mother4.webp",
+        "id": "14"
+    }
+    ,
+    {
+        "category": "MONITOR",
+        "brand": "Viewsonic",
+        "name": "Monitor Gamer 27 Full Hd Viewsonic 240hz 1080p Xg270 Pcreg",
+        "cost": "200089",
+        "stock": "1",
+        "image":"./app/multimedia/image/monitor2.webp",
+        "id": "15"
+    }
+    ,
+    {
+        "category": "MONITOR",
+        "brand": "Daewoo",
+        "name": "Monitor Daewoo DW-MON19 led 19\" negro 100V/240V",
+        "cost": "32999",
+        "stock": "6",
+        "image":"./app/multimedia/image/monitor3.webp",
+        "id": "16"
+    }
+    ,
+    {
+        "category": "MONITOR",
+        "brand": "Level Up",
+        "name": "Monitor Gamer Level Up 27 Curvo Full Hd 165hz 1ms Freesync",
+        "cost": "89999",
+        "stock": "9",
+        "image":"./app/multimedia/image/monitor4.webp",
+        "id": "17"
+    }
+    ,
+    {
+        "category": "DISCO",
+        "brand": "Western Digital",
+        "name": "Disco sólido interno Western Digital WD Green WDS100T3G0A 1TB verde",
+        "cost": "17279",
+        "stock": "10",
+        "image":"./app/multimedia/image/disco.webp",
+        "id": "18"
+    }
+    ,
+    {
+        "category": "DISCO",
+        "brand": "Seagate",
+        "name": "Disco duro interno Seagate SkyHawk Surveillance ST4000VX013 4TB",
+        "cost": "20699",
+        "stock": "6",
+        "image":"./app/multimedia/image/disco2.webp",
+        "id": "19"
+    }
+]
